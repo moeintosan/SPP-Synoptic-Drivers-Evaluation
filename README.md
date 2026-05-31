@@ -18,7 +18,7 @@ This project presents a dual assessment over a topographically complex mountain-
 ## 📊 Conceptual Framework
 The interaction between a deep upper-level trough over the Eastern Mediterranean and a surface low-pressure system induces a strong cyclonic circulation, establishing a moisture conveyor belt from the Red Sea and Persian Gulf.
 
-<img width="3315" height="2209" alt="Figure_16_Conceptual_Schematic_PERFECT" src="https://github.com/user-attachments/assets/e55a9da5-a1fd-41f8-b98e-4f1effbf16fc" />
+<img width="4945" height="3041" alt="Figure_16_LinkedIn_Edition00" src="https://github.com/user-attachments/assets/2e76f279-39f2-4b7e-a4cf-bf4fa285ee9f" />
 
 ## 📂 Repository Structure
 ```text
